@@ -1,0 +1,4 @@
+D:\Project c#\TXMLTree\TXMLTree\bin\Debug\TXMLTree.exe
+D:\Project c#\TXMLTree\TXMLTree\bin\Debug\TXMLTree.pdb
+D:\Project c#\TXMLTree\TXMLTree\obj\x86\Debug\TXMLTree.exe
+D:\Project c#\TXMLTree\TXMLTree\obj\x86\Debug\TXMLTree.pdb
